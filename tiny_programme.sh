@@ -1,3 +1,3 @@
 #!/bin/bash
-output='Everything is OK!'
+output='ERROR!'
 echo $output
